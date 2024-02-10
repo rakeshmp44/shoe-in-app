@@ -35,7 +35,7 @@ const Navbar = () => {
         </ul>
         <ul>
           <li>
-            <a>Shoe.in</a>
+            <a>Shoes.in</a>
           </li>
           <li className="hideOnMobile">
             <a>Home</a>
